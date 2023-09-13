@@ -1,0 +1,5 @@
+IP: 158.160.80.49;
+name_taski: https://taskiyandexsprint.myftp.biz/;
+name_kittygram: https://kittygrammmmmyandex.ddns.net/;
+login: Karp;
+password: Master666;
